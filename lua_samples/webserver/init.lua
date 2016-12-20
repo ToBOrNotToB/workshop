@@ -5,6 +5,10 @@ wifi.sta.config("wifi-name-here","wifi-password-here")
 led1 = 0
 gpio.mode(led1, gpio.OUTPUT)
 
+if srv~=nil then
+  srv:close()
+end
+
 srv=net.createServer(net.TCP)
 srv:listen(80,function(conn)
     conn:on("receive", function(client,request)
