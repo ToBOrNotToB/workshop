@@ -26,8 +26,9 @@ Prerequisites: java, python2.7, pyserial
   7. Rename sample script to _init.lua_.
   8. Open the file you renamed to _init.lua_ in ESPlorer.
   9. Click the 'Open' button in ESPlorer, to connect ESPlorer to the NodeMCU board.
-  10. Push the button marked 'RST' on the NodeMCU board.
-  11. Watch whatever you pu into _init.lua_ execute upon boot.
+  10. Save to ESP
+  11. Push the button marked 'RST' on the NodeMCU board.
+  12. Watch whatever you put into _init.lua_ execute upon boot.
 
 
 ## Mac
@@ -49,8 +50,9 @@ Prerequisites: java, python2.7, pyserial
   8. Rename sample script to _init.lua_.
   9. Open the file you renamed to _init.lua_ in ESPlorer.
   10. Click the 'Open' button in ESPlorer, to connect ESPlorer to the NodeMCU board.
-  11. Push the button marked 'RST' on the NodeMCU board.
-  12. Watch whatever you pu into _init.lua_ execute upon boot.
+  11. Save to ESP
+  12. Push the button marked 'RST' on the NodeMCU board.
+  13. Watch whatever you put into _init.lua_ execute upon boot.
 
 ## Windows
 Prerequisites: java
@@ -64,8 +66,9 @@ Prerequisites: java
   7. Rename sample script to _init.lua_.
   8. Open the file you renamed to _init.lua_ in ESPlorer.
   9. Click the 'Open' button in ESPlorer, to connect ESPlorer to the NodeMCU board.
-  10. Push the button marked 'RST' on the NodeMCU board.
-  11. Watch whatever you pu into _init.lua_ execute upon boot.
+  10. Save to ESP
+  11. Push the button marked 'RST' on the NodeMCU board.
+  12. Watch whatever you put into _init.lua_ execute upon boot.
 
 
 
