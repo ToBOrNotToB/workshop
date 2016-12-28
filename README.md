@@ -59,7 +59,7 @@ Prerequisites: java
 
   1. Download and install the CP2012 driver used for the NodeMCU USB-Serial chip, [CP2102 driver](https://www.silabs.com/Support%20Documents/Software/CP210x_VCP_Windows.zip).
   2. Download NodeMCU binary, from [here](nodemcu_1.4.bin?raw=true).
-  3. Flash NodeMCU binary to the NodeMCU using [ESP8266 Flasher Usage](https://github.com/nodemcu/nodemcu-flasher).
+  3. Flash NodeMCU binary to the NodeMCU using [ESP8266 Flasher Usage](https://github.com/nodemcu/nodemcu-flasher). Hint: first set your own firmware at the Config Tab, then start flashing at the Operation Tab! The progression bar will   show the successful upload to the hardware.
   4. Push the button marked 'RST' on the NodeMCU board.
   5. Start [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip).
   6. Download one of the Lua [sample scripts from below](#samples).
