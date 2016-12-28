@@ -1,6 +1,10 @@
 # NodeMCU - IoT on the cheap
 How to get started with the NodeMCU and the ESP8266 chip it contains.
 
+## Prerequisites
+ * [Win/Linux/OSX] java
+ * [Linux/OSX] python2.7, pyserial
+ 
 ## Tools
  * [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip)
  * [Win] [ESP8266 Flasher](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
