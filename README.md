@@ -90,7 +90,7 @@ Rename either one of these files to init.lua and upload it to the NodeMCU board.
 
 ## Other Resources
 
- * [NodeMCU documentation](https://nodemcu.readthedocs.io/en/master/)
+ * [NodeMCU documentation](https://nodemcu.readthedocs.io/en/master/) Documentation of NodeMCU with all its modules and functions
  * [NodeMCU Custom Builds](http://frightanic.com/nodemcu-custom-build/) - Have a custom NodeMCU version built with all the modules that you need
  * [NodeMCU API](https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en) - Have a look at all of the modules and function calls supported by NodeMCU
  * [Buy NodeMCU boards](http://www.aliexpress.com/item/New-Wireless-module-NodeMcu-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-with-pcb-Antenna/32299982691.html?ws_ab_test=searchweb201556_6,searchweb201644_1_79_78_77_82_80_62_81,searchweb201560_4) - The boards are ~$4 including shipping from China. 
