@@ -59,7 +59,7 @@ Prerequisites: java
 
   1. Download and install the CP2012 driver used for the NodeMCU USB-Serial chip, [CP2102 driver](https://www.silabs.com/Support%20Documents/Software/CP210x_VCP_Windows.zip).
   2. Download NodeMCU binary, from [here](nodemcu_1.4.bin?raw=true).
-  3. Flash NodeMCU binary to the NodeMCU using [ESP8266 Flasher Usage](https://github.com/nodemcu/nodemcu-flasher). Hint: first set your own firmware at the Config Tab, then start flashing at the Operation Tab! The progression bar will   show the successful upload to the hardware.
+  3. Flash NodeMCU binary to the NodeMCU using [ESP8266 Flasher Usage](https://github.com/nodemcu/nodemcu-flasher). Hint: first set your own firmware at the _Config_ Tab, then start flashing at the _Operation_ Tab. The progress bar then signifies the successful upload to the hardware.
   4. Push the button marked 'RST' on the NodeMCU board.
   5. Start [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip).
   6. Download one of the Lua [sample scripts from below](#samples).
@@ -93,4 +93,4 @@ Rename either one of these files to init.lua and upload it to the NodeMCU board.
  * [NodeMCU documentation](https://nodemcu.readthedocs.io/en/master/) Documentation of NodeMCU with all its modules and functions
  * [NodeMCU Custom Builds](http://frightanic.com/nodemcu-custom-build/) - Have a custom NodeMCU version built with all the modules that you need
  * [NodeMCU API](https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en) - Have a look at all of the modules and function calls supported by NodeMCU
- * [Buy NodeMCU boards](http://www.aliexpress.com/item/New-Wireless-module-NodeMcu-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-with-pcb-Antenna/32299982691.html?ws_ab_test=searchweb201556_6,searchweb201644_1_79_78_77_82_80_62_81,searchweb201560_4) - The boards are ~$4 including shipping from China. 
+ * [Buy NodeMCU boards](http://www.aliexpress.com/item/New-Wireless-module-NodeMcu-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-with-pcb-Antenna/32299982691.html?ws_ab_test=searchweb201556_6,searchweb201644_1_79_78_77_82_80_62_81,searchweb201560_4) - The boards are ~$3-$4 including shipping from China. 
